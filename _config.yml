@@ -11,15 +11,15 @@ collections:
 
 # Social settings
 500px_url:
-facebook_url:
+facebook_url: https://www.facebook.com/ashley.perez.7923
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://www.instagram.com/ashleyy_pc9/?hl=es-la
+linkedin_url: 
+pinterest_url: https://www.pinterest.com.mx/ashleyjazive/_saved/
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # Build settings
 markdown: kramdown
